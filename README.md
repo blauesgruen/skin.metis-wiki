@@ -90,5 +90,5 @@ Knöpfe und Zeilen aus. Die Liste mit Status und Installationsknopf findest du u
 ## Fragen und Hilfe
 
 Rückmeldungen und Wünsche: in Kodi unter **Skin-Einstellungen → Erweitert → Feedback senden** (QR-Code zum Scannen)
-oder direkt auf [GitHub](https://github.com/blauesgruen/skin.metis-wiki/issues/new). Im Feedback-Fenster stehen auch
+oder direkt auf [GitHub](https://github.com/blauesgruen/skin.metis-wiki/issues/new/choose). Im Feedback-Fenster stehen auch
 die Angaben, die für eine Fehlermeldung hilfreich sind.

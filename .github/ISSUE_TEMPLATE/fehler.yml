@@ -1,0 +1,24 @@
+name: Fehlermeldung
+description: Etwas funktioniert nicht oder sieht falsch aus
+title: "[Fehler] "
+labels: ["fehler"]
+body:
+  - type: textarea
+    id: fehler
+    attributes:
+      label: Was ist passiert?
+      description: Was hast du gemacht, was hast du erwartet und was ist stattdessen passiert?
+    validations:
+      required: true
+  - type: textarea
+    id: angaben
+    attributes:
+      label: Angaben aus dem Feedback-Fenster
+      description: Kodi- und Skin-Version, System, Auflösung, Sprache, Theme und Farbschema - stehen im Feedback-Fenster des Skins (einfach abschreiben oder fotografieren).
+    validations:
+      required: true
+  - type: textarea
+    id: bild
+    attributes:
+      label: Bildschirmfoto (optional)
+      description: Ein Foto oder Screenshot hilft sehr. Einfach hier hineinziehen.

@@ -1,0 +1,22 @@
+name: Wunsch
+description: Eine Idee oder ein Verbesserungsvorschlag für den Skin Metis
+title: "[Wunsch] "
+labels: ["wunsch"]
+body:
+  - type: textarea
+    id: wunsch
+    attributes:
+      label: Was wünschst du dir?
+      description: Beschreibe kurz, was der Skin können oder anders machen soll.
+    validations:
+      required: true
+  - type: textarea
+    id: wo
+    attributes:
+      label: Wo im Skin?
+      description: Zum Beispiel Startseite, Filme, Musik-Vollbild, Einstellungen.
+  - type: input
+    id: version
+    attributes:
+      label: Skin-Version
+      description: Steht im Feedback-Fenster des Skins.
