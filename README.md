@@ -1,6 +1,6 @@
 # Metis – Skin für Kodi 22
 
-Metis (früher Horizonz VI) ist ein Skin für **Kodi 22 „Piers“**. Er ist ruhig und aufgeräumt, zeigt viel Bild und
+Metis ist ein Skin für **Kodi 22 „Piers“**. Er ist ruhig und aufgeräumt, zeigt viel Bild und
 wenig Rahmen und lässt sich mit Fernbedienung, Tastatur, Maus und Touch gleich gut bedienen. Er passt sich jedem
 Bildformat an (16:9, 21:9, 4:3, 16:10 …) und funktioniert bis 4K.
 
